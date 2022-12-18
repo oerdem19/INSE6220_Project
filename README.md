@@ -1,11 +1,10 @@
 
 <div align="center">
+  <h3 align="center">Exploring the Power of PCA and Machine Learning for Speech Emotion Recognition with a Focus on Explainable AI</h3>
+   <!-- <a href="https://github.com/alaaNfissi/INSE6220_Project"><strong>Explore the docs »</strong></a> -->
   <a href="https://github.com/alaaNfissi/INSE6220_Project">
     <img src="voice-biometrics-1024x576.jpg" alt="Logo" width="600" height=auto >
   </a>
-
-  <h3 align="center">Exploring the Power of PCA and Machine Learning for Speech Emotion Recognition with a Focus on Explainable AI</h3>
-   <!-- <a href="https://github.com/alaaNfissi/INSE6220_Project"><strong>Explore the docs »</strong></a> -->
 </div>
 
 ## Abstract
