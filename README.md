@@ -1,7 +1,7 @@
 
 <div align="center">
   <a href="https://github.com/alaaNfissi/INSE6220_Project">
-    <img src="voice-biometrics-1024x576.jpg" alt="Logo">
+    <img src="voice-biometrics-1024x576.jpg" alt="Logo" width="200" height="200">
   </a>
 
   <h3 align="center">Exploring the Power of PCA and Machine Learning for Speech Emotion Recognition with a Focus on Explainable AI</h3>
